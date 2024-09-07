@@ -30,8 +30,6 @@ Uma pequena aventura para os fãs de Zelda! Essa aplicação te permite pesquisa
 
 **#TheLegendOfZelda #JavaScript #WebDev #Hyrule**
 
-**Dica:** Para deixar o README ainda mais legal, você pode adicionar uma imagem de capa com a logo da série Zelda, ou um gif animado de algum personagem.
-
 ****
 
 **Observações:**
