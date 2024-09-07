@@ -1,7 +1,5 @@
 ## Aplicação The Legend of Zelda - Imersão DEV**
 
-### **TL;DR:**
-
 Uma pequena aventura para os fãs de Zelda! Essa aplicação te permite pesquisar por personagens da série e descobrir mais sobre eles. 
 
 ### **Como funciona a magia?**
